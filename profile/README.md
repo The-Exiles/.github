@@ -84,7 +84,7 @@
       <p>Discord bot for BGS reporting, market lookups, utilities, and role workflows.</p>
     </td>
     <td valign="top" width="50%">
-      <h3>Quartermaster Bot</h3>
+      <h3><a href="https://github.com/The-Exiles/exiles_qm_bot" target="_blank" rel="noopener noreferrer">Quartermaster Bot</a></h3>
       <p>Logistics & inventories for the community, with market/order tracking.</p>
     </td>
   </tr>
