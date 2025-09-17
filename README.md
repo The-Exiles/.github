@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-org/.github/main/profile/banner.png" alt="The Exiles Banner" width="100%" />
-</p>
-
 # ✨ The Exiles Gaming Community
 
 Welcome to **The Exiles** — a multi-game cooperative built on **unity, exploration, and excellence**.  

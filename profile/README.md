@@ -1,4 +1,7 @@
 <!-- Org Profile README -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-org/.github/main/profile/banner.png" alt="The Exiles Banner" width="100%" />
+</p>
 
 # 🌌 The Exiles
 
