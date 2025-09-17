@@ -1,23 +1,23 @@
 <!-- .github/profile/README.md -->
 
 <!-- ===== HERO / BANNER ===== -->
-<p align="center" style="margin:0;padding:0;">
-  <img src="https://raw.githubusercontent.com/TheExiles/.github/main/profile/banner.png" 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/The-Exiles/.github/main/profile/banner.png"
        alt="The Exiles — HUD Banner" width="100%" />
 </p>
 
 <!-- ===== LOGO + BADGES ===== -->
 <p align="center">
-  <img src="https://theexiles.gg/assets/media/logo.png" alt="The Exiles Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/The-Exiles/.github/main/profile/logo.png" alt="The Exiles Logo" width="120" />
 </p>
 
 <p align="center">
   <a href="https://discord.gg/your-invite-link">
-    <img alt="Discord" src="https://img.shields.io/discord/000000000000000000?label=Join%20Discord&logo=discord&logoColor=white&color=7289da">
+    <img alt="Discord" src="https://img.shields.io/badge/Join%20us%20on-Discord-7289da?logo=discord&logoColor=white">
   </a>
   &nbsp;
   <a href="https://theexiles.gg">
-    <img alt="Website" src="https://img.shields.io/badge/Website-theexiles.gg-b01515?logo=firefox-browser&logoColor=white">
+    <img alt="Website" src="https://img.shields.io/badge/Website-theexiles.gg-b01515">
   </a>
   &nbsp;
   <a href="https://robertsspaceindustries.com/orgs/THEEXILES">
@@ -29,8 +29,6 @@
   </a>
 </p>
 
----
-
 <h1 align="center">🌌 The Exiles</h1>
 <p align="center">
   A cooperative gaming community united by <b>exploration, excellence, and camaraderie</b> across
@@ -39,7 +37,7 @@
 
 ---
 
-## 🎮 Our Games
+<h2>🎮 Our Games</h2>
 
 <table>
   <tr>
@@ -77,7 +75,7 @@
 
 ---
 
-## 📊 Our Projects
+<h2>📊 Our Projects</h2>
 
 <table>
   <tr>
@@ -104,24 +102,26 @@
 
 ---
 
-## 🌟 Community Principles
+<h2>🌟 Community Principles</h2>
+<ul>
+  <li><b>Cooperative governance</b> — ranks earned through contribution, not hierarchy</li>
+  <li><b>Family atmosphere</b> — supportive, respectful, inclusive</li>
+  <li><b>Play together</b> — exploration, trade, combat, building, discovery</li>
+</ul>
 
-- **Cooperative governance** — ranks earned through contribution, not hierarchy  
-- **Family atmosphere** — supportive, respectful, inclusive  
-- **Play together** — exploration, trade, combat, building, discovery  
-
-> *“We are exiles not because we were cast out, but because we chose the stars.”* 🌠
-
----
-
-## 📬 Connect
-
-- **Discord:** [Join The Exiles](https://discord.gg/5FY3Xhyfgj)  
-- **Website:** [theexiles.gg](https://theexiles.gg)  
-- **Star Citizen RSI:** [Org Page](https://robertsspaceindustries.com/orgs/UTLAGARNIR)  
-- **Elite Dangerous Inara:** [Squadron](https://inara.cz/squadron/11676)  
+<blockquote>
+  <i>“We are exiles not because we were cast out, but because we chose the stars.”</i> 🌠
+</blockquote>
 
 ---
+
+<h2>📬 Connect</h2>
+<ul>
+  <li><b>Discord:</b> <a href="https://discord.gg/your-invite-link">Join The Exiles</a></li>
+  <li><b>Website:</b> <a href="https://theexiles.gg">theexiles.gg</a></li>
+  <li><b>Star Citizen:</b> <a href="https://robertsspaceindustries.com/orgs/THEEXILES">RSI Org</a></li>
+  <li><b>Elite Dangerous:</b> <a href="https://inara.cz/squadron/12345">Inara Squadron</a></li>
+</ul>
 
 <p align="center">
   <sub>Unless otherwise noted, projects are released under the <b>MIT License</b>.</sub>
