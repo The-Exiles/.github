@@ -8,10 +8,6 @@
 
 <!-- ===== LOGO + BADGES ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/The-Exiles/.github/main/profile/logo.png" alt="The Exiles Logo" width="120" />
-</p>
-
-<p align="center">
   <a href="https://discord.gg/your-invite-link">
     <img alt="Discord" src="https://img.shields.io/badge/Join%20us%20on-Discord-7289da?logo=discord&logoColor=white">
   </a>
