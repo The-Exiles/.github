@@ -16,6 +16,10 @@
     <img alt="Website" src="https://img.shields.io/badge/Website-theexiles.gg-b01515">
   </a>
   &nbsp;
+    <a href="https://github.com/The-Exiles/ExilesInstaller/releases/latest">
+    <img alt="Download Installer" src="https://img.shields.io/badge/Download-Exiles%20Installer-22c55e?logo=github&logoColor=white">
+  </a>
+  &nbsp;
   <a href="https://robertsspaceindustries.com/orgs/THEEXILES">
     <img alt="Star Citizen" src="https://img.shields.io/badge/Star%20Citizen-Org-0a84ff">
   </a>
@@ -76,21 +80,32 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>ExileBot</h3>
-      <p>Discord bot for BGS reporting, market lookups, utilities, and role workflows.</p>
+      <h3><a href="https://github.com/The-Exiles/ExilesInstaller/releases/latest" target="_blank" rel="noopener noreferrer">Exiles Installer</a></h3>
+      <p>One-click desktop installer for our space-sim toolkit (<i>Elite Dangerous</i>, <i>Star Citizen</i>, <i>EVE Online</i>).</p>
+      <ul>
+        <li><a href="https://github.com/The-Exiles/ExilesInstaller/releases/latest">Get latest release</a></li>
+        <li>Installer: <code>ExilesInstaller-&lt;version&gt;-Setup.exe</code></li>
+        <li>Portable: <code>ExilesInstaller-portable-&lt;version&gt;.zip</code></li>
+      </ul>
     </td>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/The-Exiles/exiles_qm_bot" target="_blank" rel="noopener noreferrer">Quartermaster Bot</a></h3>
-      <p>Logistics & inventories for the community, with market/order tracking.</p>
+      <h3>ExileBot</h3>
+      <p>Discord bot for BGS reporting, market lookups, utilities, and role workflows.</p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
+      <h3><a href="https://github.com/The-Exiles/exiles_qm_bot" target="_blank" rel="noopener noreferrer">Quartermaster Bot</a></h3>
+      <p>Logistics & inventories for the community, with market/order tracking.</p>
+    </td>
+    <td valign="top" width="50%">
       <h3>Exiles Dashboard</h3>
       <p>HUD-style web dashboards for analytics, faction reports, and activity.</p>
     </td>
-    <td valign="top" width="50%">
-      <h3>EXDB</h3>
+  </tr>
+  <tr>
+    <td valign="top" width="50%" colspan="2">
+      <h3><a href="https://exdb.theexiles.gg" target="_blank" rel="noopener noreferrer">EXDB</a></h3>
       <p>Elite Dangerous database with APIs and pipelines from EDDN / EDSM.</p>
     </td>
   </tr>
