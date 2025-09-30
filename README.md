@@ -1,4 +1,4 @@
-<h1 align="center">✨ The Exiles Gaming Community</h1>
+<h1 align="center">The Exiles Gaming Community</h1>
 
 <p align="center">
   <img src="https://cdn.exile.bot/exilesLogos/ExileLogoED.png" alt="The Exiles Logo" width="220"/>
