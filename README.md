@@ -1,93 +1,133 @@
-# ✨ The Exiles Gaming Community
+<h1 align="center">✨ The Exiles Gaming Community</h1>
 
-Welcome to **The Exiles** — a multi-game cooperative built on **unity, exploration, and excellence**.  
-We are a family-like group of players spanning **Elite Dangerous**, **EVE Online**, **Star Citizen**, and more.  
-Our mission: **support each other, build together, and have fun across the stars.**
+<p align="center">
+  <img src="https://theexiles.gg/assets/exiles-logo.png" alt="The Exiles Logo" width="220"/>
+</p>
 
----
+<p align="center">
+  <strong>The Exiles</strong> — a multi-game cooperative built on 
+  <em>unity, exploration, and excellence</em>.
+</p>
 
-## 🚀 Our Games & Divisions
+<p align="center">
+  We are a family-like group of players spanning 
+  <strong>Elite Dangerous</strong>, <strong>EVE Online</strong>, 
+  <strong>Star Citizen</strong>, and beyond.  
+  Our mission: <strong>support each other, build together, and have fun across the stars.</strong>
+</p>
 
-- **Elite Dangerous**  
-  - Faction: **Utlagarnir [EXLE]**  
-  - Focus: Background Simulation (BGS), expansion projects, cooperative play
-- **Star Citizen**  
-  - Org: **The Exiles**  
-  - Focus: Exploration, trade, combat, and community ops
-- **EVE Online**  
-  - Corp: **Utlagarnir**  
-  - Focus: PvE, PvP, trade, and alliance support
-- **Other Titles**  
-  - We also gather in survival/crafting games and MMOs like **Final Fantasy XIV**, **Satisfactory**, and more.
+<hr/>
 
----
+<h2>🚀 Our Games & Divisions</h2>
 
-## 📊 Our Projects
+<ul>
+  <li><strong>Elite Dangerous</strong><br/>
+      • Faction: <strong>Utlagarnir [EXLE]</strong><br/>
+      • Focus: Background Simulation (BGS), expansion projects, cooperative play
+  </li>
+  <li><strong>Star Citizen</strong><br/>
+      • Org: <strong>The Exiles</strong><br/>
+      • Focus: Exploration, trade, combat, and community ops
+  </li>
+  <li><strong>EVE Online</strong><br/>
+      • Corp: <strong>Utlagarnir</strong><br/>
+      • Focus: PvE, PvP, trade, and alliance support
+  </li>
+  <li><strong>Other Titles</strong><br/>
+      • We also gather in survival/crafting games and MMOs like 
+        <strong>Final Fantasy XIV</strong>, <strong>Satisfactory</strong>, and more.
+  </li>
+</ul>
 
-We build custom **tools and infrastructure** to make gaming more rewarding:
+<hr/>
 
-- **ExileBot** → A Discord bot with BGS tools, economy data, and role utilities  
-- **Quartermaster Bot** → Manages community logistics, markets, and inventories  
-- **Exiles Dashboard** → A web HUD for analytics, member activity, and faction reports  
-- **Data Pipelines** → EDDN, EDSM, and custom APIs feeding dashboards & reports  
+<h2>📊 Our Projects</h2>
 
----
+<p>We build custom <strong>tools and infrastructure</strong> to make gaming more rewarding:</p>
 
-## 🛠️ Tech Stack
+<ul>
+  <li><strong>ExileBot</strong> → Discord bot with BGS tools, economy data, and role workflows</li>
+  <li><strong>Quartermaster Bot</strong> → Manages logistics, markets, and inventories</li>
+  <li><strong>Exiles Dashboard</strong> → Web HUD for analytics, member activity, and faction reports</li>
+  <li><strong>EXDB</strong> → Elite Dangerous database powered by EDDN/EDSM pipelines and APIs</li>
+</ul>
 
-Our projects use modern, production-ready stacks:
+<hr/>
 
-- **Backend:** Python (FastAPI), Node.js (Express), PostgreSQL, MongoDB  
-- **Frontend:** Vue.js / Next.js dashboards with HUD-style dark themes  
-- **Infra:** Docker, PM2, YunoHost, DigitalOcean / SSDNodes VPS hosting  
-- **CI/CD:** GitHub Actions, automated deploy scripts, reverse-proxy with Nginx  
+<h2>🛠️ Tech Stack</h2>
 
----
+<ul>
+  <li><strong>Backend:</strong> Python (FastAPI), Node.js (Express), PostgreSQL, MongoDB</li>
+  <li><strong>Frontend:</strong> Vue.js / Next.js dashboards with HUD-style dark themes</li>
+  <li><strong>Infra:</strong> Docker, PM2, YunoHost, DigitalOcean VPS hosting</li>
+  <li><strong>CI/CD:</strong> GitHub Actions, automated deploy scripts, reverse-proxy with Nginx</li>
+</ul>
 
-## 🌌 Community
+<hr/>
 
-- **Cooperative governance** — ranks earned through contribution, not hierarchy  
-- **Recruitment** — open to explorers, traders, fighters, and creators  
-- **Culture** — collaborative, respectful, and supportive  
+<h2>🌌 Community</h2>
 
-We’re more than just a squad — we’re a **collective of pilots, captains, and dreamers**.
+<ul>
+  <li><strong>Cooperative governance</strong> — ranks earned through contribution, not hierarchy</li>
+  <li><strong>Recruitment</strong> — open to explorers, traders, fighters, and creators</li>
+  <li><strong>Culture</strong> — collaborative, respectful, and supportive</li>
+</ul>
 
----
+<p>We’re more than just a squad — we’re a <strong>collective of pilots, captains, and dreamers</strong>. 🌠</p>
 
-## 📬 Join Us
+<hr/>
 
-- **Discord:** [Join The Exiles](https://discord.gg/your-invite-link)  
-- **Website:** [theexiles.gg](https://theexiles.gg)  
-- **Org Pages:**  
-  - [Star Citizen RSI](https://robertsspaceindustries.com/orgs/THEEXILES)  
-  - [Elite Dangerous Inara](https://inara.cz/squadron/12345)  
+<h2>📬 Join Us</h2>
 
----
+<ul>
+  <li><strong>Discord:</strong> <a href="https://discord.gg/your-invite-link">Join The Exiles</a></li>
+  <li><strong>Website:</strong> <a href="https://theexiles.gg">theexiles.gg</a></li>
+  <li><strong>Org Pages:</strong>
+    <ul>
+      <li><a href="https://robertsspaceindustries.com/orgs/THEEXILES">Star Citizen RSI</a></li>
+      <li><a href="https://inara.cz/squadron/12345">Elite Dangerous Inara</a></li>
+    </ul>
+  </li>
+</ul>
 
-## 📖 Contributing
+<hr/>
 
-We welcome contributions to our tools and dashboards.  
-To contribute:
+<h2>📖 Contributing</h2>
 
-1. Fork the repo  
-2. Create a feature branch (`git checkout -b feature/your-idea`)  
-3. Commit with clear messages (`git commit -m "Add feature: your-idea"`)  
-4. Push and open a Pull Request  
+<p>We welcome contributions to our tools and dashboards.</p>
 
-! Please follow our code style and use Better Comments (`// !`, `// ?`, `// todo`) in codebases.
+<ol>
+  <li>Fork the repo</li>
+  <li>Create a feature branch:<br/>
+    <code>git checkout -b feature/your-idea</code>
+  </li>
+  <li>Commit with clear messages:<br/>
+    <code>git commit -m "✨ feat: add feature your-idea"</code>
+  </li>
+  <li>Push and open a Pull Request</li>
+</ol>
 
----
+<p><strong>Guidelines:</strong><br/>
+// ! Important: Follow our code style.<br/>
+// ? Note: Use Better Comments (<code>// !</code>, <code>// ?</code>, <code>// todo</code>, <code>// fix</code>) for clarity.
+</p>
 
-## ⚖️ License
+<hr/>
 
-All Exiles projects are licensed under the **MIT License**, unless otherwise noted.
+<h2>⚖️ License</h2>
 
----
+<p>All Exiles projects are licensed under the <strong>MIT License</strong>, unless otherwise noted.</p>
 
-## ✍️ Credits
+<hr/>
 
-- **Community:** The Exiles members across games  
-- **Leaders:** Division Leaders, Elders, Admins  
-- **Developers:** Watty & contributors  
+<h2>✍️ Credits</h2>
 
-> *“We are exiles not because we were cast out, but because we chose the stars.”* 🌠
+<ul>
+  <li><strong>Community:</strong> The Exiles members across games</li>
+  <li><strong>Leaders:</strong> Division Leaders, Elders, Admins</li>
+  <li><strong>Developers:</strong> Watty & contributors</li>
+</ul>
+
+<blockquote>
+  “We are exiles not because we were cast out, but because we chose the stars.”
+</blockquote>
